@@ -1,0 +1,11 @@
+[project]
+name = "instagram-scam-detector"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+streamlit = "*"
+scikit-learn = "1.6.1"
+joblib = "*"
+pandas = "*"
+numpy = "*"
